@@ -14,6 +14,8 @@ LocalTAK is an extension to the Army's Cloud TAK infrastructure, designed to pro
 - ATAK installed on Android device
 - ESP32 microcontroller
 
+## How to flash the ESP32
+See the [FlashingESP32.md](HowTo/FlashingESP32.md) file for more information.
 ## Citations
 - [Meshtastic](https://github.com/meshtastic)
 - [Meshtastic-ATAK Plugin](https://github.com/meshtastic/ATAK-Plugin)
