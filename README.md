@@ -18,6 +18,7 @@ LocalTAK is an extension to the Army's Cloud TAK infrastructure, designed to pro
 See the [HowTo](HowTo) folder for more information.
 1. [Flashing ESP32](HowTo/FlashingESP32.md)
 2. [Pairing With Phone](HowTo/PairingWithPhone.md)
+3. [CloudTAK Bridge](HowTo/CloudTAKBridge.md) (Optional)
 
 
 ## Citations
