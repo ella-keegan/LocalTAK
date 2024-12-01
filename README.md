@@ -7,15 +7,19 @@ LocalTAK is an extension to the Army's Cloud TAK infrastructure, designed to pro
 - Distributed architecture
 - Peer-to-peer communication capabilities
 - Simplified configuration and setup
-- Offline-first operation
-- Syncs with Cloud TAK when back in contact
+- Offline and local first
+- Syncs with Cloud TAK when internet connection is available
 
 ## Requirements
 - ATAK installed on Android device
 - ESP32 microcontroller
 
-## How to flash the ESP32
-See the [FlashingESP32.md](HowTo/FlashingESP32.md) file for more information.
+## HowTo
+See the [HowTo](HowTo) folder for more information.
+1. [Flashing ESP32](HowTo/FlashingESP32.md)
+2. [Pairing With Phone](HowTo/PairingWithPhone.md)
+
+
 ## Citations
 - [Meshtastic](https://github.com/meshtastic)
 - [Meshtastic-ATAK Plugin](https://github.com/meshtastic/ATAK-Plugin)

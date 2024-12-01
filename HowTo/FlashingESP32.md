@@ -33,6 +33,3 @@ nix-shell -p esptool python3
 cd path/to/firmware
 ./device-install.sh -f firmware-BOARD-VERSION.bin
 ```
-
-
-### Install esptool 
